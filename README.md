@@ -1,4 +1,8 @@
-# Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
+<h2>Date  :</h2>
+
+<h2 >Exp: 02 </h2>
+  
+<h1>Implementation of Simple Linear Regression Model for Predicting the Marks Scored</h1> 
 
 ## AIM:
 To write a program to predict the marks scored by a student using the simple linear regression model.
@@ -18,9 +22,8 @@ To write a program to predict the marks scored by a student using the simple lin
 
 Program to implement the simple linear regression model for predicting the marks scored.
 
-Developed by: Sabari Akash A
-
-RegisterNumber: 212222230124
+<h3>Developed by: Sabari Akash A</h3>
+<h3>RegisterNumber: 212222230124</h3>
 
 ```python
 import pandas as pd
@@ -87,14 +90,17 @@ print("RSME=",rsme)
 ### Displaying actual values:
 ![output](image-3.png)
 ### graph plot for training data:
-![output](image-4.png)
+<img src=image-4.png width=400 heigth=300>
+
 ### graph plot for test data:
-![output](image-5.png)
+<img src=image-5.png width=400 heigth=300>
+
 ### MSE:
 ![output](image-6.png)
 ### MAE:
 ![output](image-7.png)
 ### RSME:
 ![output](image-8.png)
+
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
