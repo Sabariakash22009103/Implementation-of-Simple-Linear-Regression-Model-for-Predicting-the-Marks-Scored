@@ -74,7 +74,6 @@ print("MAE=",mae)
 rsme=np.sqrt(mse)
 print("RSME=",rsme)
 ```
-
 ## Output:
 ### Displaying the content in datafile:
 ![output](<Screenshot 2024-02-23 121028.png>)
